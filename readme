@@ -3,6 +3,7 @@
 使用 python NAas0s_jxt_model.py 来运行它
 
 requirement：
+python2.7
 pip install numpy
 pip install theano==0.8
 pip install lasagne
