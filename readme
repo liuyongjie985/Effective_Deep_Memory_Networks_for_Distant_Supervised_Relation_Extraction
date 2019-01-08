@@ -1,0 +1,19 @@
+论文中提到的方法在CNN+Deep+26Relation+Final下
+
+使用 python NAas0s_jxt_model.py 来运行它
+
+requirement：
+pip install numpy
+pip install theano==0.8
+pip install lasagne
+pip install matplotlib==2.0
+pip install sklearn
+
+数据集链接：
+
+
+将数据集放到你要使用的模型路径下
+例如：
+使用CNN+Deep+26Relation+Final
+则将test.p与data文件夹放置在CNN+Deep+26Relation+Final/
+祝好
