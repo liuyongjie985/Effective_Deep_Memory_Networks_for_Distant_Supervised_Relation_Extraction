@@ -10,7 +10,7 @@ pip install matplotlib==2.0
 pip install sklearn
 
 数据集链接：
-
+链接:https://pan.baidu.com/s/1bhhoep3akh5xudNr_desVg  密码:7mkm
 
 将数据集放到你要使用的模型路径下
 例如：
